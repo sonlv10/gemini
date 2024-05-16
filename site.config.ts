@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: "Gemini's Blog",
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Son Le',
+  author: 'Gemini',
 
   // open graph metadata (optional)
   description: "Welcome to Gemini's Blog",
